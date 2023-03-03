@@ -8,13 +8,22 @@
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    "url": "heroku/chatgpt-api"
   },
   {
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    "url": "heroku/whatsapp-web.js"
   },
   {
-    "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    "url": "heroku/speech-rest-api"
+  },
+  {
+    "url": "https://github.com/transitive-bullshit/chatgpt-api"
+  },
+  {
+    "url": "https://github.com/pedroslopez/whatsapp-web.js"
+  },
+  {
+    "url": "https://github.com/askrella/speech-rest-api"
   }    
  ]
 }

@@ -6,24 +6,6 @@
   "buildpacks": [
   {
     "url": "heroku/nodejs"
-  },
-  {
-    "url": "heroku/chatgpt-api"
-  },
-  {
-    "url": "heroku/whatsapp-web.js"
-  },
-  {
-    "url": "heroku/speech-rest-api"
-  },
-  {
-    "url": "https://github.com/transitive-bullshit/chatgpt-api"
-  },
-  {
-    "url": "https://github.com/pedroslopez/whatsapp-web.js"
-  },
-  {
-    "url": "https://github.com/askrella/speech-rest-api"
-  }    
+  }  
  ]
 }
